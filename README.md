@@ -127,3 +127,11 @@ https://p3terx.com/archives/use-cloudflare-warp-to-add-extra-ipv4-or-ipv6-networ
 https://luotianyi.vc/5252.html
 
 https://hiram.wang/cloudflare-wrap-vps/
+
+---------------------------------------------------------------------------------------------------------------------
+
+只检测奈非Netflix在当前IPV4、IPV6下是否全解锁！！
+一键脚本
+snap install jq && bash <(curl -sSL https://raw.githubusercontent.com/YG-tsj/Netflix-Check/main/V4V6.sh)
+
+
